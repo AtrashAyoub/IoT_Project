@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureSignalRConnectionString": "Endpoint=https://firttry1.service.signalr.net;AccessKey=gvYluBSJJEi6pnmQQE5of0VlHCtFXR2who7lD2YVeyU=;Version=1.0;",
+    "CountersTable": "myTable",
+    "accountName": "firsttry1",
+    "accountKey": "pfXP7PSpVukhCQmIKLv44hRo93hnZWuyt3D/TVL5+ImwIeXX0BAOlMvhsBV96eD5rbS465e8I/6JgQmsV4tlzg=="
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}

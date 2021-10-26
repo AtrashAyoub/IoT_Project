@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Smart Garage Door</string>
+    <string name="all_users">All Users</string>
+    <string name="add_user">Add User</string>
+    <string name="enter_user_here">Enter User Here</string>
+    <string name="remove_user">Remove User</string>
+    <string name="Approve">approve</string>
+    <string name="Reject">reject</string>
+    <string name="all_registered_cars">All Registered Cars</string>
+    <string name="requests_list">Requests List:</string>
+    <string name="my_requests">My Requests:</string>
+    <string name="add_request">Add Request</string>
+    <string name="remove_request">Remove Request</string>
+    <string name="user">User</string>
+    <string name="my_registered_cars">My registered cars</string>
+    <string name="remove_car" />
+    <string name="Smart_Garage_Door" />
+    <string-array name="usertype">
+        <item>user</item>
+        <item>admin</item>
+    </string-array>
+
+
+</resources>
